@@ -1,0 +1,22 @@
+.c-navbar_menu {
+  align-items: center;
+  text-align: center;
+  padding: 40px;
+
+  .c-li_menu {
+    list-style: none;
+    font-size: 40px;
+
+    .routerLink {
+      color: white;
+      text-decoration: none;
+      border: 7px solid white;
+      padding: 10px 30px;
+      font-weight: 600;
+    }
+
+    .routerLink:hover {
+      background-color: #3c4854;
+    }
+  }
+}
