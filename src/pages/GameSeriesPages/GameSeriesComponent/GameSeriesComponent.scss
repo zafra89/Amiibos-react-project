@@ -1,0 +1,12 @@
+.c_gameseries {
+  cursor: pointer;
+  &_div {
+    padding: 10px;
+    margin: 20px;
+    &_name {
+      color: white;
+      font-family: Arial;
+      font-size: 25px;
+    }
+  }
+}
